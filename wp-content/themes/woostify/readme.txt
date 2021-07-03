@@ -10,7 +10,7 @@ Stable tag: 1.8.5
 Requires PHP: 5.6
 
 == Description ==
-
+1111
 Woostify is fast, lightweight, responsive and super flexible WooCommerce theme built with SEO, speed, and usability in mind.
 The theme works great with any of your favorite page builder likes Elementor, Beaver Builder, SiteOrigin, Thrive Architect, Divi, Visual Composer, etc.
 Therefore, you can build any type of websites like shop, business agencies, corporate, portfolio, education, university portal, consulting, church, restaurant, medical and so on.
